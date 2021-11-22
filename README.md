@@ -7,4 +7,5 @@
 npm i
 npm test file .\customers.test.js
 
-![image](https://user-images.githubusercontent.com/28926103/142803606-43c4bd2f-98c8-456f-84e6-d0ea7a4065a8.png)
+![Snag_14b9e0cf](https://user-images.githubusercontent.com/28926103/142803695-ad8238ce-6e9b-43fb-b20f-c423e9eb0fa0.png)
+
